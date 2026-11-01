@@ -1,0 +1,42 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    list<string>l;
+    string s;
+    while(cin>>s)
+    {
+        if(s=="end")
+        break;
+        l.push_back(s);
+    }
+    int n;
+    cin>>n;
+    string s1;
+    string word;
+    int idx=0;
+    while(n--)
+    {
+        getline(cin,s1);
+        if(s1!="prev" && s1!="next")
+        {
+            stringstream ss(s1);
+            ss>>word;
+        }
+        if(s1=="prev")
+        {
+            
+        }
+        else if(s1=="next")
+        {
+
+        }
+        else
+        {
+            cout<<word<<endl;
+        }
+    }
+    // for(auto it=l.begin();it!=l.end();it++)
+    // cout<<*it<<" ";
+    return 0;
+}

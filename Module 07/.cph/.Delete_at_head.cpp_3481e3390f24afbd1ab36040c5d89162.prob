@@ -1,0 +1,1 @@
+{"name":"Local: Delete_at_head","url":"d:\\Phitron\\Basic Data Structures\\Module 07\\Delete_at_head.cpp","tests":[{"id":1783599782004,"input":"10 20 30 40 -1","output":"30 \n40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 07\\Delete_at_head.cpp","group":"local","local":true}

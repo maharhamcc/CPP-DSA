@@ -1,0 +1,1 @@
+{"name":"Local: insert_at_any_position","url":"d:\\Phitron\\Basic Data Structures\\Module 09\\insert_at_any_position.cpp","tests":[{"id":1785402239801,"input":"","output":"10 15 20 25 30 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 09\\insert_at_any_position.cpp","group":"local","local":true}

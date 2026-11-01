@@ -1,0 +1,1 @@
+{"name":"Local: insert_at_tail","url":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_tail.cpp","tests":[{"id":1783176337786,"input":"","output":"10\n20\n30\n40\n50\n60\n70\n80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_tail.cpp","group":"local","local":true}

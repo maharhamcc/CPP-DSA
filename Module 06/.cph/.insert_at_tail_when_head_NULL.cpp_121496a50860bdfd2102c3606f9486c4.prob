@@ -1,0 +1,1 @@
+{"name":"Local: insert_at_tail_when_head_NULL","url":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_tail_when_head_NULL.cpp","tests":[{"id":1783177162121,"input":"","output":"50\n60\n70\n80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_tail_when_head_NULL.cpp","group":"local","local":true}

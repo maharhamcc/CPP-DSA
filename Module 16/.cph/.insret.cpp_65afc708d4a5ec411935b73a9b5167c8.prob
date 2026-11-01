@@ -1,0 +1,1 @@
+{"name":"Local: insret","url":"d:\\Phitron\\Basic Data Structures\\Module 16\\insret.cpp","tests":[{"id":1787727336783,"input":"0 10\n2 30\n1 20\n1 15","output":"L -> 10\nInvalid\nL -> 10 20\nL -> 10 15 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 16\\insret.cpp","group":"local","local":true}

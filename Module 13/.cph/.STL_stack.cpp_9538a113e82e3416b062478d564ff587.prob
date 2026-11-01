@@ -1,0 +1,1 @@
+{"name":"Local: STL_stack","url":"d:\\Phitron\\Basic Data Structures\\Module 13\\STL_stack.cpp","tests":[{"id":1786728316104,"input":"5\n100 200 300 400 500","output":"500 400 300 200 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 13\\STL_stack.cpp","group":"local","local":true}

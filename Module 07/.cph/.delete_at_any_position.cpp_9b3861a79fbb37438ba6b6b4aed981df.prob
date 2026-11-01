@@ -1,0 +1,1 @@
+{"name":"Local: delete_at_any_position","url":"d:\\Phitron\\Basic Data Structures\\Module 07\\delete_at_any_position.cpp","tests":[{"id":1783601248760,"input":"10 20 30 40 50 -1\n4","output":"10\n20\n30\n40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 07\\delete_at_any_position.cpp","group":"local","local":true}

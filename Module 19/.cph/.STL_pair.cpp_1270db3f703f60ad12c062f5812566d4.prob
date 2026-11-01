@@ -1,0 +1,1 @@
+{"name":"Local: STL_pair","url":"d:\\Phitron\\Basic Data Structures\\Module 19\\STL_pair.cpp","tests":[{"id":1789654822414,"input":"3\n10 100\n20 200\n30 300","output":"Hello\n10\n10 100\n20 200 \n30 300"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 19\\STL_pair.cpp","group":"local","local":true}

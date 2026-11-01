@@ -1,0 +1,65 @@
+#include <bits/stdc++.h> 
+/*************************************************************
+
+    Following is the Binary Tree node structure
+
+    class BinaryTreeNode
+    {
+    public :
+        T data;
+        BinaryTreeNode<T> *left;
+        BinaryTreeNode<T> *right;
+
+        BinaryTreeNode(T data) {
+            this -> data = data;
+            left = NULL;
+            right = NULL;
+        }
+    };
+
+*************************************************************/
+
+Solution : 1
+
+
+bool isSpecialBinaryTree(BinaryTreeNode<int>* root)
+{
+    bool is_special=true;
+    queue<BinaryTreeNode<int>*>q;
+    if(root)
+    q.push(root);
+    while(!q.empty())
+    {
+        BinaryTreeNode<int>* f=q.front();
+        q.pop();
+        if((f->left!=NULL && f->right==NULL) || (f->left==NULL && f->right!=NULL))
+        {
+            is_special=false;
+            break;
+        }
+        else if(f->left && f->right)
+        {
+            q.push(f->left);
+            q.push(f->right);
+        }
+    }
+    return is_special;
+}
+
+
+
+
+Solution : 2
+
+
+bool isSpecialBinaryTree(BinaryTreeNode<int>* root)
+{
+    if(root==NULL)
+    return true;
+    if((root->left!=NULL && root->right==NULL) || (root->left==NULL && root->right!=NULL))
+    return false;
+    bool l=isSpecialBinaryTree(root->left);
+    bool r=isSpecialBinaryTree(root->right);
+    return l&&r;
+}
+

@@ -1,0 +1,1 @@
+{"name":"Local: insert_at_head","url":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_head.cpp","tests":[{"id":1783173193537,"input":"","output":"8\n6\n4\n2\n0\n10\n20\n30\n40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data Structures\\Module 06\\insert_at_head.cpp","group":"local","local":true}

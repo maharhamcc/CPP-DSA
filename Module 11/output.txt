@@ -1,0 +1,10 @@
+Enter student details:
+Student ID,Age,Grade:
+1704001 20 A
+All 3 inputs are correctly given.
+Student ID : "1704001"
+Age : 20
+Grade : A
+Enter scholarship,rate and time:
+5000.00 5.00 2.00
+Simple Interest for scholarship: 250.00
